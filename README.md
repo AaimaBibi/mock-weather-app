@@ -1,6 +1,6 @@
 # Mock Weather App
 
-A responsive weather app built with HTML, CSS, and JavaScript. Designed to simulate real-time weather conditions using mock data or OpenWeatherMap API. Perfect for learning API integration, DOM manipulation, and styling.
+A responsive weather app built with HTML, CSS, and JavaScript.Designed to display weather details using mock data for practice and presentation purposes. A hands-on project for sharpening JavaScript skills, DOM manipulation, and responsive design.
 
 🚀 [Live Demo](https://mock-weather-app-six.vercel.app/)
 
